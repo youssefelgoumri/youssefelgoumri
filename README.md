@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Youssef El Goumri</h1>
 <h3 align="center">Artificial Intelligence & Data Analysis Student at FS Meknès, Moulay Ismail University of Meknès | Python Enthusiast</h3>
 
-[![Portfolio](https://img.shields.io/website?down_message=%E2%96%BC&label=Portfolio&style=for-the-badge&up_message=%E2%96%B2&url=http%3A%2F%2Fdipanjande.com%2F)](https://dipanjande.com)
+[![Portfolio](https://img.shields.io/website?down_message=%E2%96%BC&label=Portfolio&style=for-the-badge&up_message=%E2%96%B2&url=http%3A%2F%2Fyoussefelgoumri.github.io/youssef-elgoumri%2F)](https://youssefelgoumri.github.io/youssef-elgoumri)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefelgoumri" alt="youssefelgoumri" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://youssefelgoumri.github.io](https://youssefelgoumri.github.io)
+- 👨‍💻 All of my projects are available at [https://youssefelgoumri.github.io](https://youssefelgoumri.github.io/youssef-elgoumri)
 
 - 📫 How to reach me **youssefelgoumri11@gmail.com**
 
